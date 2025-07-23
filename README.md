@@ -22,12 +22,14 @@
 ---
 
 ## 🧱 Project architecture
+```
 src/
 ├── Tasks/ # Task logic
 ├── expensesAndIncome/ # Budget accounting
 ├── reminder/ # Reminders
 ├── system/ # Storage files
 └── Main.java # Entry point
+```
 
 Each module includes:
 - `UI` — user interaction
